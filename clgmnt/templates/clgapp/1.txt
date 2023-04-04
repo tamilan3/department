@@ -1,0 +1,8 @@
+<a class="navs" href="#"><i class="fa-solid fa-user"></i> Attandance</a>
+                    <a class="navs" href="#"><i class="fa-solid fa-envelope"></i> Messages</a>
+                    <a class="navs" href="#"><i class="fa-solid fa-person-cane"></i> Staffs Attandance</a>
+                    <a class="navs" href="#"><i class="fa-solid fa-plus"></i> Add students</a> 
+                    <a class="navs" href="#"><i class="fa-solid fa-trash"></i> Remove students</a>
+                    <a class="navs" href="#"><i class="fa-solid fa-list"></i> Students list</a>
+                    <a class="navs" href="#"><i class="fa-solid fa-download fa-beat-fade"></i> Reports</a>
+                    <a class="navs" href="#">Add students</a>
